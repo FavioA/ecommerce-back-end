@@ -11,3 +11,9 @@ ORM E-Commerce Back End
 * WHEN the user opens API GET routes in Insomnia for categories, products, or tags, THEN the data for each of these routes is displayed in a formatted JSON.
 
 * WHEN the user tests API POST, PUT, and DELETE routes in Insomnia, THEN the user is able to successfully create, update, and delete data in the database.
+
+## Link to GitHub Repo
+[GitHub Repo.](https://github.com/FavioA/ecommerce-back-end.git)
+
+## LInk to Screencastify
+[Screencastify.] (https://watch.screencastify.com/v/YGM6LRM3L3dpn1edlNKU)
